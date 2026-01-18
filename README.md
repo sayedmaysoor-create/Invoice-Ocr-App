@@ -1,1 +1,0 @@
-# Invoice-Ocr-App
