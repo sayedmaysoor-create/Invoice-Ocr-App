@@ -1,0 +1,6 @@
+streamlit
+pytesseract
+opencv-python-headless
+pillow
+pandas
+python-dateutil
